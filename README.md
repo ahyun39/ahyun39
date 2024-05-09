@@ -1,4 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=100:99CCFF,0:6699CC&height=280&section=header&text=AHyun%20Kang&fontColor=336699&fontSize=65&animation=fadeIn&fontAlign=73&fontAlignY=40)
+<br>
+
+<div align="center">
+
+<img src="https://github.com/ahyun39/CodingTest/assets/70644095/b4595dc0-a985-4cef-836d-9bc08b72092d" width="550" height="400"/>
+
+</div>
+
+
+
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=100:99CCFF,0:6699CC&height=280&section=header&text=AHyun%20Kang&fontColor=336699&fontSize=65&animation=fadeIn&fontAlign=73&fontAlignY=40)-->
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=280&section=header&text=AHyun%20Kang&fontColor=336699&fontSize=65&animation=fadeIn&fontAlign=73&fontAlignY=40)-->
 
@@ -44,7 +54,7 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahyun39&bg_color=transparent&color=6699CC&line=99CCFF&point=CCCCCC&radius=200)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahyun39&bg_color=transparent&color=6699CC&line=99CCFF&point=CCCCCC&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/><br/>
 
