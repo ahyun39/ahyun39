@@ -45,6 +45,7 @@
 
 <br/><br/><br/><br/>
 
+<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dkgus33"/>
 
 <div align="center">
   
@@ -61,9 +62,10 @@
 
 <br/><br/>
 
-
+<!--
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkgus33)
-  
+-->
+
 
 </div>
 
