@@ -8,13 +8,10 @@
 
 </div>
 
-
-
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=100:99CCFF,0:6699CC&height=280&section=header&text=AHyun%20Kang&fontColor=336699&fontSize=65&animation=fadeIn&fontAlign=73&fontAlignY=40)-->
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=280&section=header&text=AHyun%20Kang&fontColor=336699&fontSize=65&animation=fadeIn&fontAlign=73&fontAlignY=40)-->
 
-<br>
 
 <div align="center">
   
