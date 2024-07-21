@@ -44,14 +44,14 @@
 </div>
 
 <br/><br/><br/><br/>
-
+<!--
 <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dkgus33"/>
 
 <div align="center">
   
 <img src="https://raw.githubusercontent.com/ahyun39/github-stats-transparent/output/generated/overview.svg" width="49.2%" />
 <img src="https://raw.githubusercontent.com/ahyun39/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
-
+-->
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahyun39&bg_color=transparent&color=6699CC&line=99CCFF&point=CCCCCC&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
