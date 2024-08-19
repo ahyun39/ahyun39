@@ -2,7 +2,6 @@
 <div align='center'>
   
 <br/><br/>
-<br/><br/>
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=99CCFF&height=100&section=header&text=Ahhyun's%20Github&fontColor=6699CC&fontSize=50&animation=fadeIn)
 
