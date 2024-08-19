@@ -1,21 +1,28 @@
+
 <div align="center">
+
+<br/><br/>
+<br/><br/>
+
+<img src="https://github.com/user-attachments/assets/bc59b233-d4aa-4faf-82e2-19d01ad60270" width="500" height="100"/>
 
 <!--
 <img src="https://github.com/ahyun39/CodingTest/assets/70644095/61bd96fc-6193-441b-942f-248c1405ef55" width="550" height="450"/>
 -->
-
+<!--
 <img src="https://github.com/ahyun39/CodingTest/assets/70644095/77a50797-09b7-4df9-b643-506641fb0027" width="550" height="450"/>
-
+-->
 </div>
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=100:99CCFF,0:6699CC&height=280&section=header&text=AHyun%20Kang&fontColor=336699&fontSize=65&animation=fadeIn&fontAlign=73&fontAlignY=40)-->
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=280&section=header&text=AHyun%20Kang&fontColor=336699&fontSize=65&animation=fadeIn&fontAlign=73&fontAlignY=40)-->
 
+<br/><br/>
 
 <div align="center">
   
-## 🍋 Tech Stack 🍋
+## Tech Stack
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -26,7 +33,8 @@
 
 <br/><br/>
 
-## 🛠️ Tools 🛠️
+
+## Tools
 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
