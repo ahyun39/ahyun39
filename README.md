@@ -1,10 +1,10 @@
 
-<div align="center">
-
+<div align='center'>
+  
 <br/><br/>
 <br/><br/>
 
-<img src="https://github.com/user-attachments/assets/bc59b233-d4aa-4faf-82e2-19d01ad60270" width="500" height="100"/>
+![header](https://capsule-render.vercel.app/api?type=soft&color=99CCFF&height=100&section=header&text=Ahhyun's%20Github&fontColor=6699CC&fontSize=50&animation=fadeIn)
 
 <!--
 <img src="https://github.com/ahyun39/CodingTest/assets/70644095/61bd96fc-6193-441b-942f-248c1405ef55" width="550" height="450"/>
@@ -22,19 +22,22 @@
 
 <div align="center">
   
-## Tech Stack
+## Tech Stackㅤ💻
 
 
+  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
 
+</div>
 <br/><br/>
 
+<div align="center">
 
-## Tools
+## Toolsㅤ🛠️
 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
