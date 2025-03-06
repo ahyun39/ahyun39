@@ -5,6 +5,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=99CCFF&height=100&section=header&text=Ahhyun's%20Github&fontColor=6699CC&fontSize=50&animation=fadeIn)
 
+<a href="https://youngone-kang.tistory.com/"><img src="https://img.shields.io/badge/YoungOne-E5511E?style=badge&logo=Tistory&logoColor=white"/></a>
 <!--
 <img src="https://github.com/ahyun39/CodingTest/assets/70644095/61bd96fc-6193-441b-942f-248c1405ef55" width="550" height="450"/>
 -->
@@ -62,27 +63,46 @@
 <img src="https://raw.githubusercontent.com/ahyun39/github-stats-transparent/output/generated/overview.svg" width="49.2%" />
 <img src="https://raw.githubusercontent.com/ahyun39/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 -->
+
 <br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahyun39&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahyun39&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<br>
+
+
+
+<!--
+
+<img src="http://mazandi.herokuapp.com/api?handle=dkgus33&theme=warm"/>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahyun39&bg_color=transparent&color=6699CC&line=99CCFF&point=CCCCCC&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
+
 
 <br/><br/>
 
-ㅤ📧ㅤah103703@naver.com
+
 
 ---
 
 <br/><br/>
 
-<!--
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkgus33)
--->
+
+<!--![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkgus33)-->
+
 
 
 </div>
 
   
 <br>
+
+
+
 
 
 <!--방문자 수 
