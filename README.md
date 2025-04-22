@@ -41,13 +41,13 @@
 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style-flat&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/>
 
 
 <br>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
@@ -55,6 +55,7 @@
 </div>
 
 <br/><br/><br/><br/>
+
 <!--
 <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dkgus33"/>
 
@@ -66,11 +67,9 @@
 
 <br>
 
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=ahyun39&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
--->
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahyun39&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahyun39&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <br>
